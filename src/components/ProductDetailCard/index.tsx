@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Props } from './index.d';
+import { Props } from './props';
 
 const ProductDetailCard: React.FC<Props> = ({id, name, imageUrl, description, price, stock, onClick}) => {
   return (
