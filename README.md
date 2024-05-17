@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Getting Started with Klontang Web
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## URL Demo
+[Klontang Web Demo](https://klontong-store.netlify.app/)
+
+## User Demo
+Admin :
+- username : admin1
+- password : 123456
+
+Customer :
+- username : customer1
+- password : 123456
 
 ## Available Scripts
 
