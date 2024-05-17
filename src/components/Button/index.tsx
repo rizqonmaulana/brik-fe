@@ -1,5 +1,5 @@
 import React from 'react';
-import { Props } from './index.d';
+import { Props } from './props';
 
 const Button: React.FC<Props> = ({ type, text, onClick, style }) => {
   return (

@@ -2,7 +2,7 @@ import React from 'react';
 import Input from '../Input';
 import Button from '../Button';
 
-import { Props } from './index.d'
+import { Props } from './props'
 
 const AuthForm: React.FC<Props> = ({
   title,

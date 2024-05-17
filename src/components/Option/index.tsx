@@ -1,5 +1,5 @@
 import React from 'react';
-import { Props } from './index.d';
+import { Props } from './props';
 
 const Option: React.FC<Props> = ({ datas, style, id, name, value, required, onChange, text }) => {
   return (

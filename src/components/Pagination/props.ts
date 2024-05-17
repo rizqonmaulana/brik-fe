@@ -2,5 +2,5 @@ export interface Props {
     currentPage: number;
     totalItems: number;
     itemsPerPage: number;
-    handlePageClick: (e) => void;
+    handlePageClick: (e:any) => void;
 }

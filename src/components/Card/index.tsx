@@ -1,5 +1,5 @@
 import React from 'react';
-import { Props } from './Index.d';
+import { Props } from './props';
 
 const Card: React.FC<Props> = ({ id, name, imageUrl, price, stock, onClick }) => {
   return (

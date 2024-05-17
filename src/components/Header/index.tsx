@@ -6,7 +6,7 @@ import { useSelector, useDispatch } from "react-redux";
 import { toast } from 'react-toastify';
 
 import { RootState } from '../../redux/store'
-import { Props } from './index.d';
+import { Props } from './props';
 
 import Button from '../Button';
 

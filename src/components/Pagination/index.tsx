@@ -2,7 +2,7 @@ import React from 'react';
 import Pagination from 'rc-pagination';
 import "rc-pagination/assets/index.css";
 
-import { Props } from './index.d';
+import { Props } from './props';
 
 const PaginationCustom: React.FC<Props> = ({ currentPage, totalItems, itemsPerPage, handlePageClick }) => {
     return (
